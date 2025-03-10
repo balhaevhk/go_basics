@@ -1,8 +1,8 @@
 package main
 
 import (
-	"go_basics/one"
-	"go_basics/two"
+	"one/one"
+	"one/two"
 )
 
 func main() {
